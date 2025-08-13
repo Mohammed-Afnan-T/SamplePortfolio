@@ -231,11 +231,14 @@ export default function Portfolio() {
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-4">
                   Mohammed <span className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 bg-clip-text text-transparent">Afnan T</span>
                 </h1>
-                <p className="text-xl sm:text-2xl text-gray-600 mb-6">HR & Marketing Executive</p>
+                <p className="text-xl sm:text-2xl text-gray-600 mb-6">HR | Marketing Executive 
+                  | Entrepreneur | Tech Community Leader
+</p>
                 <p className="text-lg text-gray-700 leading-relaxed max-w-2xl">
-                  Dynamic professional with 2+ years of experience in HR, event management, and design. 
-                  Co-founder at Tascbar Outsourcing LLP, serving as CMO of IEDC MEA and driving innovation 
-                  in startup ecosystems.
+                  Co-founder & Hr of Tascbar Outsourcing LLP, empowering freelancers globally with quality opportunities.
+                  Skilled in UI/UX design, web development, digital marketing, and branding. Active leader in IEEE, IEDC, 
+                  and TACS, organizing impactful tech events and initiatives. Passionate about creating solutions that blend technology, 
+                  creativity, and accessibility.
                 </p>
               </div>
               
