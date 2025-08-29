@@ -250,7 +250,7 @@ export default function Portfolio() {
                   Get In Touch
                 </button>
                 <a 
-                  href="#" 
+                  href="/portfolio cv.pdf" 
                   className="px-8 py-3 bg-white/40 backdrop-blur-lg border border-white/30 text-gray-700 rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300 flex items-center gap-2"
                 >
                   <Download size={18} />
