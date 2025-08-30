@@ -262,10 +262,10 @@ export default function Portfolio() {
                 <a href="mailto:mohdafnan1018@gmail.com" className="p-3 bg-white/40 backdrop-blur-lg rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                   <Mail size={24} className="text-gray-600" />
                 </a>
-                <a href="/https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-3 bg-white/40 backdrop-blur-lg rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300">
+                <a href="https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-3 bg-white/40 backdrop-blur-lg rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                   <Linkedin size={24} className="text-gray-600" />
                 </a>
-                <a href="/https://github.com/Mohammed-Afnan-T" className="p-3 bg-white/40 backdrop-blur-lg rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300">
+                <a href="https://github.com/Mohammed-Afnan-T" className="p-3 bg-white/40 backdrop-blur-lg rounded-full hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                   <Github size={24} className="text-gray-600" />
                 </a>
               </div>
@@ -528,10 +528,10 @@ export default function Portfolio() {
                     <a href="mailto:mohdafnan1018@gmail.com" className="p-4 bg-white/40 backdrop-blur-lg rounded-xl hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                       <Mail size={24} className="text-gray-700" />
                     </a>
-                    <a href="/https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-4 bg-white/40 backdrop-blur-lg rounded-xl hover:bg-white/60 hover:shadow-xl transition-all duration-300">
+                    <a href="https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-4 bg-white/40 backdrop-blur-lg rounded-xl hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                       <Linkedin size={24} className="text-gray-700" />
                     </a>
-                    <a href="/https://github.com/Mohammed-Afnan-T" className="p-4 bg-white/40 backdrop-blur-lg rounded-xl hover:bg-white/60 hover:shadow-xl transition-all duration-300">
+                    <a href="https://github.com/Mohammed-Afnan-T" className="p-4 bg-white/40 backdrop-blur-lg rounded-xl hover:bg-white/60 hover:shadow-xl transition-all duration-300">
                       <Github size={24} className="text-gray-700" />
                     </a>
                   </div>
@@ -549,10 +549,10 @@ export default function Portfolio() {
             <a href="mailto:mohdafnan1018@gmail.com" className="p-3 bg-white/10 backdrop-blur-lg rounded-xl hover:bg-white/20 transition-colors border border-white/20">
               <Mail size={24} />
             </a>
-            <a href="/https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-3 bg-white/10 backdrop-blur-lg rounded-xl hover:bg-white/20 transition-colors border border-white/20">
+            <a href="https://www.linkedin.com/in/mohammed-afnan-t-a95472294" className="p-3 bg-white/10 backdrop-blur-lg rounded-xl hover:bg-white/20 transition-colors border border-white/20">
               <Linkedin size={24} />
             </a>
-            <a href="/https://github.com/Mohammed-Afnan-T" className="p-3 bg-white/10 backdrop-blur-lg rounded-xl hover:bg-white/20 transition-colors border border-white/20">
+            <a href="https://github.com/Mohammed-Afnan-T" className="p-3 bg-white/10 backdrop-blur-lg rounded-xl hover:bg-white/20 transition-colors border border-white/20">
               <Github size={24} />
             </a>
           </div>
